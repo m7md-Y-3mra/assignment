@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  background-color: #eee;
+  border: 1px #999 solid;
+  margin-right: 10px;
+  transition: 0.8s;
+  outline: none;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+

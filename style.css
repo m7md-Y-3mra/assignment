@@ -1,0 +1,18 @@
+/* Center the heading on the page */
+h1 {
+    text-align: center;
+}
+
+/* Style the list items */
+ul {
+    list-style: none;
+    padding: 0;
+    border: 1px solid #000;
+    background-color: lightgray;
+}
+
+/* Make the list items bold and green */
+li {
+    font-weight: bold;
+    color: green;
+}
